@@ -1,6 +1,6 @@
 # Política de Privacidade — Call Organizer
 
-_Última atualização: 12 de junho de 2026_
+_Última atualização: 18 de junho de 2026_
 
 A extensão **Call Organizer** foi desenhada com privacidade em primeiro lugar.
 
